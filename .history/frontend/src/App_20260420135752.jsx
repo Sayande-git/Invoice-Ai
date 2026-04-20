@@ -13,7 +13,7 @@ import NotFound from "./pages/Notfound";
 import AppShell from "./components/AppShell";
 import Dashboard from "./pages/Dashboard";
 import CreateInvoice from "./pages/CreateInvoice";
-import InvoicePreview from "./components/InvoicePreview.jsx";
+import InvoicePreview from "./components/InvoicePreview";
 import Invoices from "./pages/Invoices";
 import BusinessProfile from "./pages/BusinessProfile";
 
